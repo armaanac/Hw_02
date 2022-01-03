@@ -1,4 +1,4 @@
-# Hw_02
+# Visualizing datasets
 
 This is the link to Mike's [homework webpage](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
 
